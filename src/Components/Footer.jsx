@@ -90,7 +90,7 @@ function Footer() {
         </div>
       </div>
 
-      <h4 className="bg-secondary px-20 text-white mt-20 py-2 text-sm">© 2024 Elegant Jewels. All Rights Reserved.</h4>
+      <h4 className="bg-secondary px-5 md:px-20 text-white mt-20 py-2 text-sm">© 2024 Elegant Jewels. All Rights Reserved.</h4>
     </div>
   );
 }
